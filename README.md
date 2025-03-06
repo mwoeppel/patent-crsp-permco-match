@@ -21,5 +21,3 @@ Of the 8,206,179 utility patents with an assignee between 1976 and 2024, we matc
 *The quality of these data (i.e., accuracy of matches) benefited from the research assistance of Garrett Klinge.
 
 **Kogan, L., Papanikolaou, D., Seru, A., and Stoffman, N., 2017. Technological innovation, resource allocation, and growth. Quarterly Journal of Economics, 132(2), pp. 665-712.
-
-You can find additional patent data at https://www.mikewoeppel.com/data.
