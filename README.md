@@ -1,5 +1,5 @@
 # patent-crsp-permco-match
-These data provide a patent-CRSP permco match, as in our published paper, Stoffman, N., Woeppel, M., and Yavuz, M.D. 2022. Small Innovators: No Risk, No Return. Journal of Accounting and Economics. The data in our paper span 1976 through 2019. These data span 1976 through 2025.
+These data provide a patent-CRSP permco match, as in our published paper, Stoffman, N., Woeppel, M., and Yavuz, M.D. 2022. Small Innovators: No Risk, No Return. Journal of Accounting and Economics. The data in our paper span 1976 through 2019. These data (patnum_permco_1976_2025.tsv) span 1976 through 2025.
 
 If you use these data, please cite our paper as the data source.
 
@@ -14,7 +14,7 @@ These data span 1976 through 2025 and include only patents that we have matched 
 
 Of the 8,057,116 utility patents with an assignee between 1976 and 2025, we match 3,098,245 or 38.5%, to CRSP firms. Our patent database includes 9,397 unique permcos matched to utility patents. 
 
-We also include matches to non-utility patents that we did not use in our paper (design patents, reissue patents, etc) -> patnum_permco_1976_2025_alt
+We also include matches to non-utility patents that we did not use in our paper (patnum_permco_1976_2025_alt.tsv).
 
 If you have any data issues or questions, please contact Mike Woeppel at mwoeppel@iu.edu.
 
